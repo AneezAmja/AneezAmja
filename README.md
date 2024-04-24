@@ -3,7 +3,7 @@
 - ⚡ I'm Aneez, a front end developer based in London!
 - 🤔 I'm fascinated by large-scale, high-impact products and have worked on applications that are used by 200 thousands of daily vistors.
 - 📝 Proficient in TypeScript, React, Angular, Node.JS.
-- 🖋️ I'm intrested in learning NextJS! 
+- 🖋️ I'm intrested in learning NextJS and Flutter! 
 
 ### 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
